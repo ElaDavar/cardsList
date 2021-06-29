@@ -2,26 +2,3 @@
   font-family: sans-serif;
   text-align: center;
 }
-
-.card {
-  max-width: 300;
-  margin: 30px;
-  transition: 0.3s;
-  box-shadow: 0 8px 40px -12px rgba(0, 0, 0, 0.3);
-  /* "&:hover": {
-    boxShadow: "0 16px 70px -12.125px rgba(0,0,0,0.3)"
-  } */
-}
-
-.content {
-  text-align: left;
-  /* padding: muiBaseTheme.spacing.unit * 3 */
-}
-
-.heading {
-  font-weight: bold;
-}
-
-.subheading {
-  line-height: 1.8;
-}
